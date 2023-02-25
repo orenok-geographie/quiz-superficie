@@ -1,6 +1,6 @@
-﻿[
+[
     {
-        "Country Name": "Gibraltar",
+        "CountryName": "Gibraltar",
         "reponsed": "10",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -11,7 +11,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Nauru",
+        "CountryName": "Nauru",
         "reponsed": "20",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -22,7 +22,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Tuvalu",
+        "CountryName": "Tuvalu",
         "reponsed": "30",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -33,7 +33,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Saint-Marin",
+        "CountryName": "Saint-Marin",
         "reponsed": "60",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -44,7 +44,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Monaco",
+        "CountryName": "Monaco",
         "reponsed": "75",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -55,7 +55,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Îles Vierges britanniques",
+        "CountryName": "Îles Vierges britanniques",
         "reponsed": "150",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -66,7 +66,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Liechtenstein",
+        "CountryName": "Liechtenstein",
         "reponsed": "160",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -77,7 +77,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Aruba",
+        "CountryName": "Aruba",
         "reponsed": "180",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -88,7 +88,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Îles Marshall",
+        "CountryName": "Îles Marshall",
         "reponsed": "180",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -99,7 +99,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Samoa américaines",
+        "CountryName": "Samoa américaines",
         "reponsed": "200",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -110,7 +110,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Saint-Kitts-et-Nevis",
+        "CountryName": "Saint-Kitts-et-Nevis",
         "reponsed": "260",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -121,7 +121,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Îles Caïmans",
+        "CountryName": "Îles Caïmans",
         "reponsed": "264",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -132,7 +132,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Maldives",
+        "CountryName": "Maldives",
         "reponsed": "300",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -143,7 +143,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Malte",
+        "CountryName": "Malte",
         "reponsed": "320",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -154,7 +154,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Grenade",
+        "CountryName": "Grenade",
         "reponsed": "340",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -165,7 +165,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Saint-Vincent-et-les Grenadines",
+        "CountryName": "Saint-Vincent-et-les Grenadines",
         "reponsed": "390",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -176,7 +176,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Barbade",
+        "CountryName": "Barbade",
         "reponsed": "430",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -187,7 +187,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Antigua-et-Barbuda",
+        "CountryName": "Antigua-et-Barbuda",
         "reponsed": "440",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -198,7 +198,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Curacao",
+        "CountryName": "Curacao",
         "reponsed": "444",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -209,7 +209,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Mariannes",
+        "CountryName": "Mariannes",
         "reponsed": "460",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -220,7 +220,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Palaos",
+        "CountryName": "Palaos",
         "reponsed": "460",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -231,7 +231,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Seychelles",
+        "CountryName": "Seychelles",
         "reponsed": "460",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -242,7 +242,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Andorre",
+        "CountryName": "Andorre",
         "reponsed": "470",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -253,7 +253,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Guam",
+        "CountryName": "Guam",
         "reponsed": "540",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -264,7 +264,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Île de Man",
+        "CountryName": "Île de Man",
         "reponsed": "570",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -275,7 +275,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Sainte-Lucie",
+        "CountryName": "Sainte-Lucie",
         "reponsed": "620",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -286,7 +286,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Micronésie, États fédérés de",
+        "CountryName": "Micronésie, États fédérés de",
         "reponsed": "700",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -297,7 +297,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Singapour",
+        "CountryName": "Singapour",
         "reponsed": "728",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -308,7 +308,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Dominique",
+        "CountryName": "Dominique",
         "reponsed": "750",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -319,7 +319,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Tonga",
+        "CountryName": "Tonga",
         "reponsed": "750",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -330,7 +330,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Bahreïn",
+        "CountryName": "Bahreïn",
         "reponsed": "785",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -341,7 +341,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Kiribati",
+        "CountryName": "Kiribati",
         "reponsed": "810",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -352,7 +352,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Îles Turques-et-Caïques",
+        "CountryName": "Îles Turques-et-Caïques",
         "reponsed": "950",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -363,7 +363,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Sao Tomé-et-Principe",
+        "CountryName": "Sao Tomé-et-Principe",
         "reponsed": "960",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -374,7 +374,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Chine, RAS de Hong Kong",
+        "CountryName": "Chine, RAS de Hong Kong",
         "reponsed": "1,110",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -385,7 +385,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Comores",
+        "CountryName": "Comores",
         "reponsed": "1,861",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -396,7 +396,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Maurice",
+        "CountryName": "Maurice",
         "reponsed": "2,040",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -407,7 +407,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Luxembourg",
+        "CountryName": "Luxembourg",
         "reponsed": "2,590",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -418,7 +418,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Samoa",
+        "CountryName": "Samoa",
         "reponsed": "2,840",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -429,7 +429,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Cap-Vert",
+        "CountryName": "Cap-Vert",
         "reponsed": "4,030",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -440,7 +440,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Bermudes",
+        "CountryName": "Bermudes",
         "reponsed": "4,290",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -451,7 +451,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Trinité-et-Tobago",
+        "CountryName": "Trinité-et-Tobago",
         "reponsed": "5,130",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -462,7 +462,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Brunéi Darussalam",
+        "CountryName": "Brunéi Darussalam",
         "reponsed": "5,770",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -473,7 +473,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Cisjordanie et Gaza",
+        "CountryName": "Cisjordanie et Gaza",
         "reponsed": "6,020",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -484,7 +484,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Porto Rico",
+        "CountryName": "Porto Rico",
         "reponsed": "8,870",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -495,7 +495,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Chypre",
+        "CountryName": "Chypre",
         "reponsed": "9,250",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -506,7 +506,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Liban",
+        "CountryName": "Liban",
         "reponsed": "10,450",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -517,7 +517,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Jamaïque",
+        "CountryName": "Jamaïque",
         "reponsed": "10,990",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -528,7 +528,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Gambie",
+        "CountryName": "Gambie",
         "reponsed": "11,300",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -539,7 +539,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Qatar",
+        "CountryName": "Qatar",
         "reponsed": "11,490",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -550,7 +550,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Vanuatu",
+        "CountryName": "Vanuatu",
         "reponsed": "12,190",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -561,7 +561,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Îles Féroé",
+        "CountryName": "Îles Féroé",
         "reponsed": "12,960",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -572,7 +572,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Monténégro",
+        "CountryName": "Monténégro",
         "reponsed": "13,810",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -583,7 +583,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Bahamas",
+        "CountryName": "Bahamas",
         "reponsed": "13,880",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -594,7 +594,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Timor-Leste",
+        "CountryName": "Timor-Leste",
         "reponsed": "14,870",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -605,7 +605,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Eswatini",
+        "CountryName": "Eswatini",
         "reponsed": "17,360",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -616,7 +616,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Koweït",
+        "CountryName": "Koweït",
         "reponsed": "17,820",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -627,7 +627,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Fidji",
+        "CountryName": "Fidji",
         "reponsed": "18,270",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -638,7 +638,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Nouvelle-Calédonie",
+        "CountryName": "Nouvelle-Calédonie",
         "reponsed": "18,580",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -649,7 +649,7 @@
         "reponse": "Inférieur à 20 000 km2"
     },
     {
-        "Country Name": "Slovénie",
+        "CountryName": "Slovénie",
         "reponsed": "20,480",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -660,7 +660,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "El Salvador",
+        "CountryName": "El Salvador",
         "reponsed": "21,040",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -671,7 +671,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "Israël",
+        "CountryName": "Israël",
         "reponsed": "22,070",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -682,7 +682,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "Belize",
+        "CountryName": "Belize",
         "reponsed": "22,970",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -693,7 +693,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "Djibouti",
+        "CountryName": "Djibouti",
         "reponsed": "23,200",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -704,7 +704,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "Macédoine du Nord",
+        "CountryName": "Macédoine du Nord",
         "reponsed": "25,710",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -715,7 +715,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "Rwanda",
+        "CountryName": "Rwanda",
         "reponsed": "26,340",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -726,7 +726,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "Haïti",
+        "CountryName": "Haïti",
         "reponsed": "27,750",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -737,7 +737,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "Burundi",
+        "CountryName": "Burundi",
         "reponsed": "27,830",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -748,7 +748,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "Guinée équatoriale",
+        "CountryName": "Guinée équatoriale",
         "reponsed": "28,050",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -759,7 +759,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "Albanie",
+        "CountryName": "Albanie",
         "reponsed": "28,750",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -770,7 +770,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "Îles Salomon",
+        "CountryName": "Îles Salomon",
         "reponsed": "28,900",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -781,7 +781,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "Arménie",
+        "CountryName": "Arménie",
         "reponsed": "29,740",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -792,7 +792,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "Lesotho",
+        "CountryName": "Lesotho",
         "reponsed": "30,360",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -803,7 +803,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "Belgique",
+        "CountryName": "Belgique",
         "reponsed": "30,530",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -814,7 +814,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "Moldova",
+        "CountryName": "Moldova",
         "reponsed": "33,850",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -825,7 +825,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "Guinée-Bissau",
+        "CountryName": "Guinée-Bissau",
         "reponsed": "36,130",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -836,7 +836,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "Bhoutan",
+        "CountryName": "Bhoutan",
         "reponsed": "38,390",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -847,7 +847,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "Suisse",
+        "CountryName": "Suisse",
         "reponsed": "41,290",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -858,7 +858,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "Pays-Bas",
+        "CountryName": "Pays-Bas",
         "reponsed": "41,540",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -869,7 +869,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "Danemark",
+        "CountryName": "Danemark",
         "reponsed": "42,920",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -880,7 +880,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "Estonie",
+        "CountryName": "Estonie",
         "reponsed": "45,340",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -891,7 +891,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "République dominicaine",
+        "CountryName": "République dominicaine",
         "reponsed": "48,670",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -902,7 +902,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "République slovaque",
+        "CountryName": "République slovaque",
         "reponsed": "49,030",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -913,7 +913,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "Costa Rica",
+        "CountryName": "Costa Rica",
         "reponsed": "51,100",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -924,7 +924,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "Bosnie-Herzégovine",
+        "CountryName": "Bosnie-Herzégovine",
         "reponsed": "51,210",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -935,7 +935,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "Togo",
+        "CountryName": "Togo",
         "reponsed": "56,790",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -946,7 +946,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "Lettonie",
+        "CountryName": "Lettonie",
         "reponsed": "64,590",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -957,7 +957,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "Petits états insulaires du Pacifique",
+        "CountryName": "Petits états insulaires du Pacifique",
         "reponsed": "65,150",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -968,7 +968,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "Lituanie",
+        "CountryName": "Lituanie",
         "reponsed": "65,290",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -979,7 +979,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "Sri Lanka",
+        "CountryName": "Sri Lanka",
         "reponsed": "65,610",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -990,7 +990,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "Géorgie",
+        "CountryName": "Géorgie",
         "reponsed": "69,700",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1001,7 +1001,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "Irlande",
+        "CountryName": "Irlande",
         "reponsed": "70,280",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1012,7 +1012,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "Sierra Leone",
+        "CountryName": "Sierra Leone",
         "reponsed": "72,300",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1023,7 +1023,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "Panama",
+        "CountryName": "Panama",
         "reponsed": "75,320",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1034,7 +1034,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "République tchèque",
+        "CountryName": "République tchèque",
         "reponsed": "78,871",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1045,7 +1045,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "Autriche",
+        "CountryName": "Autriche",
         "reponsed": "83,879",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1056,7 +1056,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "Serbie",
+        "CountryName": "Serbie",
         "reponsed": "84,990",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1067,7 +1067,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "Azerbaïdjan",
+        "CountryName": "Azerbaïdjan",
         "reponsed": "86,600",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1078,7 +1078,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "Croatie",
+        "CountryName": "Croatie",
         "reponsed": "88,070",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1089,7 +1089,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "Jordanie",
+        "CountryName": "Jordanie",
         "reponsed": "89,318",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1100,7 +1100,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "Portugal",
+        "CountryName": "Portugal",
         "reponsed": "92,230",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1111,7 +1111,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "Hongrie",
+        "CountryName": "Hongrie",
         "reponsed": "93,030",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1122,7 +1122,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "Émirats arabes unis",
+        "CountryName": "Émirats arabes unis",
         "reponsed": "98,648",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1133,7 +1133,7 @@
         "reponse": "Inférieur à 100 000 km2"
     },
     {
-        "Country Name": "Corée, République de",
+        "CountryName": "Corée, République de",
         "reponsed": "100,410",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1144,7 +1144,7 @@
         "reponse": "Inférieur à 250 000 km2"
     },
     {
-        "Country Name": "Islande",
+        "CountryName": "Islande",
         "reponsed": "103,000",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1155,7 +1155,7 @@
         "reponse": "Inférieur à 250 000 km2"
     },
     {
-        "Country Name": "Guatemala",
+        "CountryName": "Guatemala",
         "reponsed": "108,890",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1166,7 +1166,7 @@
         "reponse": "Inférieur à 250 000 km2"
     },
     {
-        "Country Name": "Cuba",
+        "CountryName": "Cuba",
         "reponsed": "109,880",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1177,7 +1177,7 @@
         "reponse": "Inférieur à 250 000 km2"
     },
     {
-        "Country Name": "Bulgarie",
+        "CountryName": "Bulgarie",
         "reponsed": "111,000",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1188,7 +1188,7 @@
         "reponse": "Inférieur à 250 000 km2"
     },
     {
-        "Country Name": "Libéria",
+        "CountryName": "Libéria",
         "reponsed": "111,370",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1199,7 +1199,7 @@
         "reponse": "Inférieur à 250 000 km2"
     },
     {
-        "Country Name": "Honduras",
+        "CountryName": "Honduras",
         "reponsed": "112,490",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1210,7 +1210,7 @@
         "reponse": "Inférieur à 250 000 km2"
     },
     {
-        "Country Name": "Bénin",
+        "CountryName": "Bénin",
         "reponsed": "114,760",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1221,7 +1221,7 @@
         "reponse": "Inférieur à 250 000 km2"
     },
     {
-        "Country Name": "Malawi",
+        "CountryName": "Malawi",
         "reponsed": "118,480",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1232,7 +1232,7 @@
         "reponse": "Inférieur à 250 000 km2"
     },
     {
-        "Country Name": "Corée, République démocratique de",
+        "CountryName": "Corée, République démocratique de",
         "reponsed": "120,540",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1243,7 +1243,7 @@
         "reponse": "Inférieur à 250 000 km2"
     },
     {
-        "Country Name": "Érythrée",
+        "CountryName": "Érythrée",
         "reponsed": "121,630",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1254,7 +1254,7 @@
         "reponse": "Inférieur à 250 000 km2"
     },
     {
-        "Country Name": "Nicaragua",
+        "CountryName": "Nicaragua",
         "reponsed": "130,370",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1265,7 +1265,7 @@
         "reponse": "Inférieur à 250 000 km2"
     },
     {
-        "Country Name": "Grèce",
+        "CountryName": "Grèce",
         "reponsed": "131,960",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1276,7 +1276,7 @@
         "reponse": "Inférieur à 250 000 km2"
     },
     {
-        "Country Name": "Tadjikistan",
+        "CountryName": "Tadjikistan",
         "reponsed": "141,380",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1287,7 +1287,7 @@
         "reponse": "Inférieur à 250 000 km2"
     },
     {
-        "Country Name": "Népal",
+        "CountryName": "Népal",
         "reponsed": "147,180",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1298,7 +1298,7 @@
         "reponse": "Inférieur à 250 000 km2"
     },
     {
-        "Country Name": "Bangladesh",
+        "CountryName": "Bangladesh",
         "reponsed": "147,570",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1309,7 +1309,7 @@
         "reponse": "Inférieur à 250 000 km2"
     },
     {
-        "Country Name": "Tunisie",
+        "CountryName": "Tunisie",
         "reponsed": "163,610",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1320,7 +1320,7 @@
         "reponse": "Inférieur à 250 000 km2"
     },
     {
-        "Country Name": "Suriname",
+        "CountryName": "Suriname",
         "reponsed": "163,820",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1331,7 +1331,7 @@
         "reponse": "Inférieur à 250 000 km2"
     },
     {
-        "Country Name": "Uruguay",
+        "CountryName": "Uruguay",
         "reponsed": "176,220",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1342,7 +1342,7 @@
         "reponse": "Inférieur à 250 000 km2"
     },
     {
-        "Country Name": "Cambodge",
+        "CountryName": "Cambodge",
         "reponsed": "181,040",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1353,7 +1353,7 @@
         "reponse": "Inférieur à 250 000 km2"
     },
     {
-        "Country Name": "République arabe syrienne",
+        "CountryName": "République arabe syrienne",
         "reponsed": "185,180",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1364,7 +1364,7 @@
         "reponse": "Inférieur à 250 000 km2"
     },
     {
-        "Country Name": "Sénégal",
+        "CountryName": "Sénégal",
         "reponsed": "196,710",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1375,7 +1375,7 @@
         "reponse": "Inférieur à 250 000 km2"
     },
     {
-        "Country Name": "République kirghize",
+        "CountryName": "République kirghize",
         "reponsed": "199,950",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1386,7 +1386,7 @@
         "reponse": "Inférieur à 250 000 km2"
     },
     {
-        "Country Name": "Bélarus",
+        "CountryName": "Bélarus",
         "reponsed": "207,610",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1397,7 +1397,7 @@
         "reponse": "Inférieur à 250 000 km2"
     },
     {
-        "Country Name": "Guyana",
+        "CountryName": "Guyana",
         "reponsed": "214,970",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1408,7 +1408,7 @@
         "reponse": "Inférieur à 250 000 km2"
     },
     {
-        "Country Name": "République démocratique populaire lao",
+        "CountryName": "République démocratique populaire lao",
         "reponsed": "236,800",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1419,7 +1419,7 @@
         "reponse": "Inférieur à 250 000 km2"
     },
     {
-        "Country Name": "Roumanie",
+        "CountryName": "Roumanie",
         "reponsed": "238,400",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1430,7 +1430,7 @@
         "reponse": "Inférieur à 250 000 km2"
     },
     {
-        "Country Name": "Ghana",
+        "CountryName": "Ghana",
         "reponsed": "238,530",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1441,7 +1441,7 @@
         "reponse": "Inférieur à 250 000 km2"
     },
     {
-        "Country Name": "Ouganda",
+        "CountryName": "Ouganda",
         "reponsed": "241,550",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1452,7 +1452,7 @@
         "reponse": "Inférieur à 250 000 km2"
     },
     {
-        "Country Name": "Royaume-Uni",
+        "CountryName": "Royaume-Uni",
         "reponsed": "243,610",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1463,7 +1463,7 @@
         "reponse": "Inférieur à 250 000 km2"
     },
     {
-        "Country Name": "Guinée",
+        "CountryName": "Guinée",
         "reponsed": "245,860",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1474,7 +1474,7 @@
         "reponse": "Inférieur à 250 000 km2"
     },
     {
-        "Country Name": "Équateur",
+        "CountryName": "Équateur",
         "reponsed": "256,370",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1485,7 +1485,7 @@
         "reponse": "Inférieur à 500 000 km2"
     },
     {
-        "Country Name": "Gabon",
+        "CountryName": "Gabon",
         "reponsed": "267,670",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1496,7 +1496,7 @@
         "reponse": "Inférieur à 500 000 km2"
     },
     {
-        "Country Name": "Nouvelle-Zélande",
+        "CountryName": "Nouvelle-Zélande",
         "reponsed": "267,710",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1507,7 +1507,7 @@
         "reponse": "Inférieur à 500 000 km2"
     },
     {
-        "Country Name": "Burkina Faso",
+        "CountryName": "Burkina Faso",
         "reponsed": "274,220",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1518,7 +1518,7 @@
         "reponse": "Inférieur à 500 000 km2"
     },
     {
-        "Country Name": "Philippines",
+        "CountryName": "Philippines",
         "reponsed": "300,000",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1529,7 +1529,7 @@
         "reponse": "Inférieur à 500 000 km2"
     },
     {
-        "Country Name": "Italie",
+        "CountryName": "Italie",
         "reponsed": "302,068",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1540,7 +1540,7 @@
         "reponse": "Inférieur à 500 000 km2"
     },
     {
-        "Country Name": "Oman",
+        "CountryName": "Oman",
         "reponsed": "309,500",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1551,7 +1551,7 @@
         "reponse": "Inférieur à 500 000 km2"
     },
     {
-        "Country Name": "Pologne",
+        "CountryName": "Pologne",
         "reponsed": "312,710",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1562,7 +1562,7 @@
         "reponse": "Inférieur à 500 000 km2"
     },
     {
-        "Country Name": "Côte d'Ivoire",
+        "CountryName": "Côte d'Ivoire",
         "reponsed": "322,460",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1573,7 +1573,7 @@
         "reponse": "Inférieur à 500 000 km2"
     },
     {
-        "Country Name": "Malaisie",
+        "CountryName": "Malaisie",
         "reponsed": "330,241",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1584,7 +1584,7 @@
         "reponse": "Inférieur à 500 000 km2"
     },
     {
-        "Country Name": "Viet Nam",
+        "CountryName": "Viet Nam",
         "reponsed": "331,340",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1595,7 +1595,7 @@
         "reponse": "Inférieur à 500 000 km2"
     },
     {
-        "Country Name": "Finlande",
+        "CountryName": "Finlande",
         "reponsed": "338,460",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1606,7 +1606,7 @@
         "reponse": "Inférieur à 500 000 km2"
     },
     {
-        "Country Name": "Congo, République du",
+        "CountryName": "Congo, République du",
         "reponsed": "342,000",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1617,7 +1617,7 @@
         "reponse": "Inférieur à 500 000 km2"
     },
     {
-        "Country Name": "Allemagne",
+        "CountryName": "Allemagne",
         "reponsed": "357,590",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1628,7 +1628,7 @@
         "reponse": "Inférieur à 500 000 km2"
     },
     {
-        "Country Name": "Japon",
+        "CountryName": "Japon",
         "reponsed": "377,974",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1639,7 +1639,7 @@
         "reponse": "Inférieur à 500 000 km2"
     },
     {
-        "Country Name": "Zimbabwe",
+        "CountryName": "Zimbabwe",
         "reponsed": "390,760",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1650,7 +1650,7 @@
         "reponse": "Inférieur à 500 000 km2"
     },
     {
-        "Country Name": "Paraguay",
+        "CountryName": "Paraguay",
         "reponsed": "406,752",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1661,7 +1661,7 @@
         "reponse": "Inférieur à 500 000 km2"
     },
     {
-        "Country Name": "Groenland",
+        "CountryName": "Groenland",
         "reponsed": "410,450",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1672,7 +1672,7 @@
         "reponse": "Inférieur à 500 000 km2"
     },
     {
-        "Country Name": "Petits états des Caraïbes",
+        "CountryName": "Petits états des Caraïbes",
         "reponsed": "434,990",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1683,7 +1683,7 @@
         "reponse": "Inférieur à 500 000 km2"
     },
     {
-        "Country Name": "Iraq",
+        "CountryName": "Iraq",
         "reponsed": "435,052",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1694,7 +1694,7 @@
         "reponse": "Inférieur à 500 000 km2"
     },
     {
-        "Country Name": "Maroc",
+        "CountryName": "Maroc",
         "reponsed": "446,550",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1705,7 +1705,7 @@
         "reponse": "Inférieur à 500 000 km2"
     },
     {
-        "Country Name": "Ouzbékistan",
+        "CountryName": "Ouzbékistan",
         "reponsed": "448,924",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1716,7 +1716,7 @@
         "reponse": "Inférieur à 500 000 km2"
     },
     {
-        "Country Name": "Papouasie-Nouvelle-Guinée",
+        "CountryName": "Papouasie-Nouvelle-Guinée",
         "reponsed": "462,840",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1727,7 +1727,7 @@
         "reponse": "Inférieur à 500 000 km2"
     },
     {
-        "Country Name": "Cameroun",
+        "CountryName": "Cameroun",
         "reponsed": "475,440",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1738,7 +1738,7 @@
         "reponse": "Inférieur à 500 000 km2"
     },
     {
-        "Country Name": "Turkménistan",
+        "CountryName": "Turkménistan",
         "reponsed": "488,100",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1749,7 +1749,7 @@
         "reponse": "Inférieur à 500 000 km2"
     },
     {
-        "Country Name": "Espagne",
+        "CountryName": "Espagne",
         "reponsed": "505,970",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1760,7 +1760,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Thaïlande",
+        "CountryName": "Thaïlande",
         "reponsed": "513,120",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1771,7 +1771,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Yémen, Rép. du",
+        "CountryName": "Yémen, Rép. du",
         "reponsed": "527,970",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1782,7 +1782,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Suède",
+        "CountryName": "Suède",
         "reponsed": "528,861",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1793,7 +1793,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "France",
+        "CountryName": "France",
         "reponsed": "549,087",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1804,7 +1804,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Kenya",
+        "CountryName": "Kenya",
         "reponsed": "580,370",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1815,7 +1815,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Botswana",
+        "CountryName": "Botswana",
         "reponsed": "581,730",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1826,7 +1826,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Madagascar",
+        "CountryName": "Madagascar",
         "reponsed": "587,295",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1837,7 +1837,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Ukraine",
+        "CountryName": "Ukraine",
         "reponsed": "603,550",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1848,7 +1848,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "République centrafricaine",
+        "CountryName": "République centrafricaine",
         "reponsed": "622,980",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1859,7 +1859,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Norvège",
+        "CountryName": "Norvège",
         "reponsed": "624,499",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1870,7 +1870,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Somalie",
+        "CountryName": "Somalie",
         "reponsed": "637,660",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1881,7 +1881,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Soudan du Sud",
+        "CountryName": "Soudan du Sud",
         "reponsed": "646,883",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1892,7 +1892,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Afghanistan",
+        "CountryName": "Afghanistan",
         "reponsed": "652,860",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1903,7 +1903,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Myanmar",
+        "CountryName": "Myanmar",
         "reponsed": "676,590",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1914,7 +1914,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Zambie",
+        "CountryName": "Zambie",
         "reponsed": "752,610",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1925,7 +1925,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Chili",
+        "CountryName": "Chili",
         "reponsed": "756,700",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1936,7 +1936,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Turquie",
+        "CountryName": "Turquie",
         "reponsed": "785,350",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1947,7 +1947,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Pakistan",
+        "CountryName": "Pakistan",
         "reponsed": "796,100",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1958,7 +1958,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Mozambique",
+        "CountryName": "Mozambique",
         "reponsed": "799,380",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1969,7 +1969,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Namibie",
+        "CountryName": "Namibie",
         "reponsed": "824,290",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1980,7 +1980,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Venezuela",
+        "CountryName": "Venezuela",
         "reponsed": "912,050",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -1991,7 +1991,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Nigéria",
+        "CountryName": "Nigéria",
         "reponsed": "923,770",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -2002,7 +2002,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Tanzanie",
+        "CountryName": "Tanzanie",
         "reponsed": "947,300",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -2013,7 +2013,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Égypte, République arabe d’",
+        "CountryName": "Égypte, République arabe d’",
         "reponsed": "1,001,450",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -2024,7 +2024,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Mauritanie",
+        "CountryName": "Mauritanie",
         "reponsed": "1,030,700",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -2035,7 +2035,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Bolivie",
+        "CountryName": "Bolivie",
         "reponsed": "1,098,580",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -2046,7 +2046,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Éthiopie",
+        "CountryName": "Éthiopie",
         "reponsed": "1,136,240",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -2057,7 +2057,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Colombie",
+        "CountryName": "Colombie",
         "reponsed": "1,140,619",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -2068,7 +2068,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Europe centrale et les pays baltes",
+        "CountryName": "Europe centrale et les pays baltes",
         "reponsed": "1,166,811",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -2079,7 +2079,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Afrique du Sud",
+        "CountryName": "Afrique du Sud",
         "reponsed": "1,219,090",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -2090,7 +2090,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Mali",
+        "CountryName": "Mali",
         "reponsed": "1,240,190",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -2101,7 +2101,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Angola",
+        "CountryName": "Angola",
         "reponsed": "1,246,700",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -2112,7 +2112,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Niger",
+        "CountryName": "Niger",
         "reponsed": "1,267,000",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -2123,7 +2123,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Tchad",
+        "CountryName": "Tchad",
         "reponsed": "1,284,000",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -2134,7 +2134,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Pérou",
+        "CountryName": "Pérou",
         "reponsed": "1,285,220",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -2145,7 +2145,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Mongolie",
+        "CountryName": "Mongolie",
         "reponsed": "1,564,116",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -2156,7 +2156,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Iran, République islamique d’",
+        "CountryName": "Iran, République islamique d’",
         "reponsed": "1,745,150",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -2167,7 +2167,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Libye",
+        "CountryName": "Libye",
         "reponsed": "1,759,540",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -2178,7 +2178,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Soudan",
+        "CountryName": "Soudan",
         "reponsed": "1,878,000",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -2189,7 +2189,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Indonésie",
+        "CountryName": "Indonésie",
         "reponsed": "1,916,907",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -2200,7 +2200,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Mexique",
+        "CountryName": "Mexique",
         "reponsed": "1,964,375",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -2211,7 +2211,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Arabie saoudite",
+        "CountryName": "Arabie saoudite",
         "reponsed": "2,149,690",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -2222,7 +2222,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Congo, République démocratique du",
+        "CountryName": "Congo, République démocratique du",
         "reponsed": "2,344,860",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -2233,7 +2233,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Algérie",
+        "CountryName": "Algérie",
         "reponsed": "2,381,741",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -2244,7 +2244,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Kazakhstan",
+        "CountryName": "Kazakhstan",
         "reponsed": "2,724,900",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -2255,7 +2255,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Argentine",
+        "CountryName": "Argentine",
         "reponsed": "2,780,400",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -2266,7 +2266,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Inde",
+        "CountryName": "Inde",
         "reponsed": "3,287,260",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -2277,7 +2277,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Union européenne",
+        "CountryName": "Union européenne",
         "reponsed": "4,254,345",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -2288,7 +2288,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Australie",
+        "CountryName": "Australie",
         "reponsed": "7,741,220",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -2299,7 +2299,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Brésil",
+        "CountryName": "Brésil",
         "reponsed": "8,515,770",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -2310,7 +2310,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Chine",
+        "CountryName": "Chine",
         "reponsed": "9,600,013",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -2321,7 +2321,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "États-Unis",
+        "CountryName": "États-Unis",
         "reponsed": "9,831,510",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -2332,7 +2332,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Canada",
+        "CountryName": "Canada",
         "reponsed": "9,879,750",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
@@ -2343,7 +2343,7 @@
         "reponse": "Supérieur à 1 000 000 de km2"
     },
     {
-        "Country Name": "Fédération de Russie",
+        "CountryName": "Fédération de Russie",
         "reponsed": "17,098,250",
         "optun": "Inférieur à 20 000 km2",
         "optdeux": "Inférieur à 100 000 km2",
